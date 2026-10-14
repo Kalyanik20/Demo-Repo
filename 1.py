@@ -1,6 +1,6 @@
 dishes = ["Dosa","Idli","Puri"]
 
-sides =["Sambhar","Chutney","Saagu"]
+sides =["Sambhar","Chutney"]
 
 for dish in dishes:
     print(dish)
