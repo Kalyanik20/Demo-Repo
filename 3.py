@@ -1,4 +1,4 @@
-roll_number = [21,12,19,42,47,53,35]
+roll_number = [21,14,19,42,47,53,35]
 
 print("Start")
 
